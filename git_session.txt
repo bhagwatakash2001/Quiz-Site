@@ -1,0 +1,7 @@
+
+
+1. git init
+2. ls -a 		//display hidden folders in the directry
+3. git add .	//add tracker to all files present in the directory
+4. git status
+5. git commit -m	//save changes to the local directory and 'm' stands for message i.e. save changes with the msg
